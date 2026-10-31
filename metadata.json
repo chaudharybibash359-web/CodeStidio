@@ -1,0 +1,6 @@
+{
+  "name": "CodeStudio",
+  "description": "Mobile IDE and AI Code Studio with code editor, sandbox preview, game runner with touch controls, and build installer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
